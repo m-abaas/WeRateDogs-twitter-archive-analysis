@@ -11,5 +11,7 @@ this project aims to gather, assess, and clean data then act on it through analy
 
 > ## Project output 
 
-* wrangle_report.pdf: documentation for data wrangling steps: gather, assess, and clean
-* act_report.pdf: documentation of analysis and insights into final data
+* twitter_archive_master.csv: combined and cleaned data.
+* wrangle_report.pdf: documentation for data wrangling steps: gather, assess, and clean.
+* act_report.pdf: documentation of analysis and insights into final data.
+
